@@ -1,6 +1,6 @@
 import app from "./SRC/app.js";
-import { env } from "./Config/env.js";
-import { connectDatabase } from "./Config/database.js";
+import { env } from "./SRC/Config/env.js";
+import { connectDatabase } from "./SRC/Config/database.js";
 
 let server;
 
